@@ -1,0 +1,9 @@
+.content-wrap {
+  width: 2660px;
+  height: 1723px;
+  box-sizing: border-box;
+  background: #FF4656;
+  border-radius: 32px 32px 32px 32px;
+  position: relative;
+  z-index: 1;
+}

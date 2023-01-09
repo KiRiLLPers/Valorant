@@ -1,0 +1,12 @@
+.page {
+  box-sizing: border-box;
+  width: 3099px;
+  height: 2323px;
+  background-color: #1F2326;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}

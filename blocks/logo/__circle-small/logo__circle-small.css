@@ -1,0 +1,36 @@
+.logo__circle-small {
+  width: 20px;
+  height: 20px;
+  background: #FF4656;
+  position: absolute;
+}
+
+.logo__circle-small:nth-child(1) {
+  border-radius: 50% 0 0 50%;
+  top: 20px;
+  left: 30px;
+}
+
+.logo__circle-small:nth-child(2) {
+  border-radius: 0 50% 50% 0;
+  top: 20px;
+  right: 30px;
+}
+
+.logo__circle-small:nth-child(3) {
+  border-radius: 50% 0 0 50%;
+  top: 40px;
+  left: 30px;
+}
+
+.logo__circle-small:nth-child(4) {
+  border-radius: 50%;
+  top: 40px;
+  right: 30px;
+}
+
+.logo__circle-small:nth-child(5) {
+  border-radius: 50% 0 50% 50%;
+  bottom: 20px;
+  left: 30px;
+}

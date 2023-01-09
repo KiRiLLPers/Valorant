@@ -1,0 +1,9 @@
+.content {
+  width: 100%;
+  height: 1499px;
+  box-sizing: border-box;
+  background:  url(../../images/content_wrap_background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  mix-blend-mode: multiply;
+}
