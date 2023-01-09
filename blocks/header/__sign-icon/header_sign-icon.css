@@ -1,0 +1,7 @@
+.header__sign-icon {
+  background: url(../../../images/header_sign-title.png);
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  margin: 0 16px 0 0;
+}

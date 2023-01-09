@@ -1,0 +1,7 @@
+.header__logo-title {
+  width: 79px;
+  height: 40px;
+  background-image: url(../../../images/riot_games.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

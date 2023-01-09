@@ -1,0 +1,6 @@
+.header__logo-icon {
+  width: 48px;
+  height: 40px;
+  background: url(../../../images/logo.png);
+  background-repeat: no-repeat;
+}
