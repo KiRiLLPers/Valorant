@@ -1,4 +1,5 @@
-.header__sign-title {
+.header__menu-link {
+  text-decoration: none;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
@@ -6,11 +7,16 @@
   line-height: 17px;
   text-align: center;
   color: #FFFFFF;
+  transition: color .2s linear;
+  margin-right: 70px;
+}
+
+.header__menu-link:nth-of-type(3), .header__menu-link:nth-of-type(5) {
   display: flex;
   align-items: center;
 }
 
-.header__sign-title::after {
+.header__menu-link:nth-of-type(3)::after, .header__menu-link:nth-of-type(5)::after  {
   content: '';
   width: 7px;
   height: 6px;
@@ -20,3 +26,8 @@
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.header__menu-link:hover {
+  color: #FF4656;
+}
+

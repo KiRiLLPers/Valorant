@@ -1,0 +1,6 @@
+.card {
+  box-sizing: border-box;
+  width: 440px;
+  height: 990px;
+  position: relative;
+}
