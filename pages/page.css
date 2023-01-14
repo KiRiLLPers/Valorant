@@ -22,6 +22,7 @@
 @import url(../blocks/content/__title/content__title.css);
 @import url(../blocks/content/__cards/content__cards.css);
 @import url(../blocks/card/card.css);
+@import url(../blocks/card/__wrap-title/card__wrap-title.css);
 @import url(../blocks/card/_hero_phoenix/card_hero_phoenix.css);
 @import url(../blocks/card/_hero_jett/card_hero_jett.css);
 @import url(../blocks/card/_hero_sova/card_hero_sova.css);
@@ -29,6 +30,7 @@
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__subtitle/card__subtitle.css);
 @import url(../blocks/card/__items/card__items.css);
+@import url(../blocks/card/__items/_theme_light/card__items_theme_light.css);
 @import url(../blocks/card/__item/card__item.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/circle/circle.css);

@@ -1,0 +1,7 @@
+.card__wrap-title {
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: top left;
+  top: 40px;
+  left: 53px;
+}
