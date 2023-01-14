@@ -1,0 +1,6 @@
+.footer__items {
+  display: flex;
+  position: absolute;
+  bottom: 80px;
+  left: -125px;
+}

@@ -33,6 +33,22 @@
 @import url(../blocks/card/__items/_theme_light/card__items_theme_light.css);
 @import url(../blocks/card/__item/card__item.css);
 @import url(../blocks/footer/footer.css);
+
+@import url(../blocks/footer/__items/footer__items.css);
+@import url(../blocks/footer-card/footer-card.css);
+@import url(../blocks/footer-card/__text/footer-card__text.css);
+@import url(../blocks/footer-card/__title/footer-card__title.css);
+@import url(../blocks/footer-card/__subtitle/footer-card__subtitle.css);
+@import url(../blocks/footer-card/__paragraph/footer-card__paragraph.css);
+@import url(../blocks/footer-card/__decorative-els/footer-card__decorative-els.css);
+@import url(../blocks/footer-card/__decorative-el-squre/footer-card__decorative-el-squre.css);
+@import url(../blocks/footer-card/__decorative-el-icon/footer-card__decorative-el-icon.css);
+@import url(../blocks/footer-card/__play/footer-card__play.css);
+
+
+
+
+
 @import url(../blocks/circle/circle.css);
 @import url(../blocks/circle/_top-big_pink/circle_top-big_pink.css);
 @import url(../blocks/circle/_top-small_pink/circle_top-small_pink.css);

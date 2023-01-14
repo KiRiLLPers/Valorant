@@ -1,0 +1,10 @@
+.fotter-card__subtitle {
+  margin: 32px 0;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 15px;
+
+  color: #000000;
+}
